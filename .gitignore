@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#Personal folders
+hackathon2025/
+handenv/
+.vscode/
+
+#Personal files
+Calculator.py
+URLShortener.py
+ytDownloader.py
+
+.DS_Store
